@@ -3,10 +3,11 @@ Algorithm and programming logic study using Portugol - Virtualg
 This study have the objective to give me skill to improve my knowledge about programming logic.
 
 
+
+
 Algoritmo "glicose"
 
 Var
-
    glicose : real
 
 Inicio
